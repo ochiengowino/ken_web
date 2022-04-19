@@ -118,9 +118,7 @@
                         <div class="content d-flex flex-column justify-content-center">
                             <h3 data-aos="fade-up">Who we are</h3>
                             <p data-aos="fade-up">
-                                Kenlinks Solutions Ltd is a majority Kenyan owned and registered company, PIN. P051-806-893B, set up to deal primarily in IT products that enhance personal safety and public well-being. Its model of business is to develop technology products and services,
-                                to operate international and local Agency and Distributorship services and to invest in mentor-ship and incubation projects run by youth. Its aim is to bring out affordable mass-market niche technology products that have
-                                the greatest capacity to impact positively health and well-being. Focusing on the interests of individuals will enable Kenlinks Solutions Ltd to always seek to be relevant and address pressing needs.
+                                Kenlinks Solutions Ltd is a majority Kenyan owned and registered company, PIN. P051-806-893B, set up to deal primarily in IT products that enhance personal safety and public well-being. 
                             </p>
                             <div class="row">
                                 <div class="col-md-6 icon-box" data-aos="fade-up">
@@ -133,16 +131,7 @@
                                     <h4>Our Vision</h4>
                                     <p>A pace setting profitable business in the diffusion, utilization and adoption of technological solutions that serve the public with simplicity.</p>
                                 </div>
-                                <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                  <i class="bx bx-images"></i>
-                  <h4>Labore consequatur</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-                </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                  <i class="bx bx-shield"></i>
-                  <h4>Beatae veritatis</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-                </div> -->
+                     
                             </div>
                         </div>
                         <!-- End .content-->
@@ -153,7 +142,70 @@
         </section>
         <!-- End About Us Section -->
 
+        <!-- ======= Events Section ======= -->
+        <section id="events" class="events">
+            <div class="container" data-aos="fade-up">
 
+                <!-- <div class="section-title">
+                    <h2>Command and Control System</h2>
+                    <p>Organize Your Events in our Restaurant</p>
+                </div> -->
+
+                <div class="events-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper-wrapper">
+
+                        <div class="swiper-slide">
+                            <div class="row event-item">
+                                <div class="col-lg-6">
+                                    <img src="assets\img\CRAWN-Trust\CT1.png" class="img-fluid cc-img shadow p-3 mb-5 " alt="">
+                                </div>
+                                <div class="col-lg-6 pt-4 pt-lg-0 contentcc">
+                                   
+                                    <p>
+                                    Our model of business is to develop technology products and services, to operate international and local Agency and Distributorship services
+                                     and to invest in mentor-ship and incubation projects run by youth.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="row event-item">
+                                <div class="col-lg-6">
+                                    <img src="assets\img\Kisumu-EOC\kisumu (199).jpg" class="img-fluid cc-img shadow p-3 mb-5 " alt="">
+                                </div>
+                                <div class="col-lg-6 pt-4 pt-lg-0 contentcc">
+                                   
+                                    <p>
+                                    Our aim is to bring out affordable mass-market niche technology products that have the greatest capacity to impact positively health and well-being.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="row event-item">
+                                <div class="col-lg-6">
+                                    <img src="assets\img\Kisumu-EOC\kisumu (99).jpg" class="img-fluid cc-img shadow p-3 mb-5 " alt="">
+                                </div>
+                                <div class="col-lg-6 pt-4 pt-lg-0 contentcc">
+                                    
+                                    <p>
+                                    Focusing on the interests of individuals will enable Kenlinks Solutions Ltd to always seek to be relevant and address pressing needs.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End testimonial item -->
+
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </section>
+        <!-- End Events Section -->
 
         <!-- ======= Our Clients Section ======= -->
         <section id="clients" class="clients">
@@ -178,6 +230,17 @@
                         </div>
                     </div>
 
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <div class="client-logo">
+                            <a href="https://aphrc.org/"><img src="assets\img\clients\aphrc-logo.png" class="img-fluid" alt=""></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <div class="client-logo">
+                            <a href="http://www.ocoambulance.co.ke/"><img src="assets\img\clients\ocoa-logo.png" class="img-fluid" alt=""></a>
+                        </div>
+                    </div>
                 </div>
 
             </div>

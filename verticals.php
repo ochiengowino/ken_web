@@ -130,7 +130,7 @@
                             SayVU offers cities a comprehensive and innovative solution that grants them control over the area of coverage as well as an efficient and timely response to incidents. Citizens gain the ability to connect with the authorities
                             whenever they feel threatened, to re-establish trust.
                         </p>
-                        <a href="portfolio-details.php" class="portfolio-details-lightbox btn btn-lg btn-outline-danger vericals-btns" data-glightbox="type: external" title="Portfolio Details">Read More</a>
+                        <a href="portfolio-details.php" class="portfolio-details-lightbox btn btn-lg btn-outline-primary vericals-btns" data-glightbox="type: external" title="Portfolio Details">Read More</a>
                     </div>
                 </div>
             </div>
@@ -155,7 +155,7 @@
                             report directly from their smartphones while knowing that help is on its way. Features like scheduled alerts and automated alerts that are activated if the mobile’s sensors identify a problem, guarantee the safety of each employee,
                             anytime, anywhere.
                         </p>
-                        <a href="portfolio-details2.php" class="portfolio-details-lightbox btn btn-lg btn-outline-danger vericals-btns" data-glightbox="type: external" title="Portfolio Details">Read More</a>
+                        <a href="portfolio-details2.php" class="portfolio-details-lightbox btn btn-lg btn-outline-primary vericals-btns" data-glightbox="type: external" title="Portfolio Details">Read More</a>
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 ">
                         <div class="about-img">
@@ -188,7 +188,7 @@
                             When every second counts, quick and efficient first responders’ dispatch can make the difference between life and death. With SayVU’s technology, the important information reaches the first responders in the field when they are minutes away from the incident
                             thus reducing response time significantly. Also, our indoor positioning enables an immense advantage while responding to events in corporate offices.
                         </p>
-                        <a href="portfolio-details3.php" class="portfolio-details-lightbox btn btn-lg btn-outline-danger vericals-btns" data-glightbox="type: external" title="Portfolio Details">Read More</a>
+                        <a href="portfolio-details3.php" class="portfolio-details-lightbox btn btn-lg btn-outline-primary vericals-btns" data-glightbox="type: external" title="Portfolio Details">Read More</a>
                     </div>
                 </div>
             </div>

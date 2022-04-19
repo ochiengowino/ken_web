@@ -291,7 +291,7 @@
                                     <img src="assets/img/Picturelhjg.png" alt="" class="img-fluid">
                                 </figure>
                             </div>
-                            <a class="btn btn-lg btn-outline-danger " id="read-tech" href="cc_features.php">Read More</a>
+                            <a class="btn btn-lg btn-outline-primary " id="read-tech" href="cc_features.php">Read More</a>
                             <!-- <div class="btn btn-success" id="read-tech">Read More</div> -->
                         </div>
                     </div>

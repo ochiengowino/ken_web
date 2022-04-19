@@ -117,8 +117,8 @@
                 <div class="justify-content-center">
                     <nav class="mb-4 py-3">
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Emergency Operations Training - Kisumu County</button>
-                            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Kenlinks - SayVU Launch</button>
+                            <button class="nav-link active gallery-tab" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Emergency Operations Training - Kisumu County</button>
+                            <button class="nav-link gallery-tab" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Kenlinks - SayVU Launch</button>
                             <!-- <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">CRAWN Trust - Training</button> -->
                         </div>
                     </nav>
@@ -126,7 +126,7 @@
                 </div>
            
                 <div class="tab-content" id="nav-tabContent">
-                    <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">1...
+                    <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                         <div class="row">
                             <div class="col-xl-3 col-md-6 mb-4">
                                 <div class="gallery-item">
@@ -234,6 +234,13 @@
                                 <div class="gallery-item">
                                     <a href="assets/img/SayVU-Launch/sayvu_launch (10).jpg" class="gallery-lightbox" data-gall="gallery-item">
                                         <img src="assets/img/SayVU-Launch/sayvu_launch (10).jpg" alt="" class="img-fluid gallery-img">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-md-6 mb-4">
+                                <div class="gallery-item">
+                                    <a href="assets/img/SayVU-Launch/sayvu_launch (21).jpg" class="gallery-lightbox" data-gall="gallery-item">
+                                        <img src="assets/img/SayVU-Launch/sayvu_launch (21).jpg" alt="" class="img-fluid gallery-img">
                                     </a>
                                 </div>
                             </div>

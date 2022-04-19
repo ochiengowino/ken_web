@@ -92,7 +92,7 @@
     <main id="main">
 
         <!-- ======= Breadcrumbs ======= -->
-        <section id="breadcrumbs" class="breadcrumbs">
+        <section id="breadcrumbs" class="breadcrumbs"  style="background-image: url(assets\img\pattern1.png);">
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
