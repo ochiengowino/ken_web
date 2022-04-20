@@ -75,7 +75,7 @@
                             <li><a href="#">Video Intelligence</a></li>
                         </ul>
                     </li>
-                    <li><a href="services.php">Demo Center</a></li>
+                    <!-- <li><a href="services.php">Demo Center</a></li> -->
                     <li><a href="gallery.php">Gallery</a></li>
               
                     <li><a href="contact-us.php">Contact Us</a></li>

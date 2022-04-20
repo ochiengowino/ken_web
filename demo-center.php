@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Kenlinks Solutions</title>
+    <title>demo center</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -28,7 +28,12 @@
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
 
- 
+    <!-- =======================================================
+  * Template Name: Flattern - v4.7.0
+  * Template URL: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
 </head>
 
 <body>
@@ -41,10 +46,10 @@
                 <i class="bi bi-phone d-flex align-items-center ms-4"><span>+254701922922</span></i>
             </div>
             <div class="social-links d-none d-md-flex align-items-center">
-                <a href="https://twitter.com/KenlinksOffice" class="twitter"><i class="bi bi-twitter"></i></a>
-                <a href="https://www.facebook.com/KenlinksOfficial/" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="https://www.instagram.com/kenlinks_solutions/" class="instagram"><i class="bi bi-instagram"></i></a>
-                <!-- <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a> -->
+                <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+                <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+                <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+                <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
             </div>
         </div>
     </section>
@@ -56,10 +61,9 @@
             <div class="logo">
                 <a href="index.php"><img src="assets/img/logo.png" alt="" class="logo"></a>
             </div>
-
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="active" href="index.php">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About Us</a></li>
                     <li class="dropdown"><a href="#">Products & Services<i class="bi bi-chevron-down"></i></a>
                         <ul>
@@ -71,150 +75,64 @@
                             <li><a href="#">Video Intelligence</a></li>
                         </ul>
                     </li>
-                    <!-- <li><a href="demo-center.php">Demo Center</a></li> -->
-         
+                    <li><a class="active" href="demo-center.php">Demo Center</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
+              
                     <li><a href="contact-us.php">Contact Us</a></li>
-
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
             <!-- .navbar -->
 
         </div>
+
+        </div>
     </header>
     <!-- End Header -->
 
-    <!-- ======= Hero Section ======= -->
-    <section id="hero" hidden>
-        <div id="heroCarousel">
-
-            <!-- <div class="carousel-item active video" id="hero-video" style="background-image: url(assets/img/slide/banner.gif);">
-
-            </div> -->
-            <video id="hero-video" autoplay muted loop>
-              <source src="assets/img/slide/sayvu_vid.mp4" type="video/mp4">
-          </video>
-
-            <ol style="display:none;" class="carousel-indicators" id="hero-carousel-indicators"></ol>
-
-        </div>
-    </section>
-    <!-- End Hero -->
     <main id="main">
+
         <!-- ======= Breadcrumbs ======= -->
-        <!-- <section id="hero">
-            <div id="heroCarousel">
+        <section id="breadcrumbs" class="breadcrumbs">
+            <div class="container">
 
-                <div class="carousel-item active " style="background-image: url(assets/img/hero-img.jpg);">
-
+                <div class="d-flex justify-content-between align-items-center">
+                    <h2>Demo Center</h2>
+                    <ol>
+                        <li><a href="index.php">Home</a></li>
+                        <li>Demo Center</li>
+                    </ol>
                 </div>
 
-                <ol style="display:none;" class="carousel-indicators" id="hero-carousel-indicators"></ol>
-
             </div>
-        </section> -->
+        </section>
+     
 
-        <div class="hero-section">
-            <div class="img-overlay">
-                <h1 class="hero-text">Incidence Response Management Solutions</h1>
-                <img class="hero-phone" src="assets/img/Home Page.png" alt="">
+
+           <!-- ======= Call To Action Section ======= -->
+    <section id="cta3" class="cta3">
+      <div class="container" data-aos="zoom-out">
+
+        <div class="row g-5">
+
+          <div class="col-lg-8 col-md-6 content d-flex flex-column justify-content-center order-last order-md-first">
+            <h3>Alias sunt quas <em>Cupiditate</em> oluptas hic minima</h3>
+            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <a class="cta3-btn align-self-start" href="#">Call To Action</a>
+          </div>
+
+          <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
+            <div class="img">
+              <img src="assets\img\banner12.png" alt="" class="img-fluid">
             </div>
+          </div>
 
         </div>
 
-        <section class="fullsize-video-bg" hidden>
-            <div id="video-viewport">
-                <video width="1920" height="1280" autoplay muted loop>
-                    <source src="assets/img/slide/sayvu_vid.mp4" type="video/mp4" />
-                </video>
-            </div>
-        </section>
+      </div>
+    </section><!-- End Call To Action Section -->
 
-        <!-- ======= Cta Section ======= -->
-        <section id="cta" class="cta">
-            <div class="container container-lg container-md container-sm container-xl">
-                <div class="row">
-                    <div class="col-lg-9 col-md-6 col-sm text-center text-lg-left">
-                        <h3>
-                            Mobile App for <span>Distress Situations</span>
-                        </h3>
-                        <p>Kenlinks has a flagship product that is a Mobile Application for emergency management and situation awareness, marketed as <span>SayVU</span></p>
-                        <!-- <p>I'm <span class="typed" style="color: black;" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p> -->
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm cta-btn-container text-center">
-                        <img src="assets/img/sayvu_logo.png" alt="" class="sayvu_logo"></a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Cta Section -->
 
-        <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
-            <div class="container">
-                <h3 id="services_heading">With This Solution, We Provide:</h3>
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="service" data-aos="fade-up" data-aos-delay="300">
-                            <div class="service-div">
-                                <img src="assets/img/team/first_res.PNG" class="img-fluid service-img" alt="">
-                            </div>
-                            <div class="service-info">
-                                <p style="text-align:center">Seamless linkage between first Responders and end-users.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="service" data-aos="fade-up" data-aos-delay="300">
-                            <div class="service-div">
-                                <img src="assets/img/team/c_c.png" class="img-fluid service-img" alt="">
-                            </div>
-                            <div class="service-info">
-                                <p style="text-align:center">Command and Control capabilities for our corporate clients in the service of their staff or delivery of services to their customers.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="service" data-aos="fade-up" data-aos-delay="300">
-                            <div class="service-div">
-                                <img src="assets/img/team/BI.png" class="img-fluid service-img" alt="">
-                            </div>
-                            <div class="service-info">
-                                <p style="text-align:center">Business Intelligence to our clients.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="service" data-aos="fade-up" data-aos-delay="300">
-                            <div class="service-div">
-                                <img src="assets/img/team/Picturelhjg.png" class="img-fluid service-img" alt="">
-                            </div>
-                            <div class="service-info">
-                                <p style="text-align:center">Provision of customised solutions e.g. in the case of Covid- 19</p>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section>
-        <!-- End Services Section -->
-        <section id="cta2" class="cta2">
-            <div class="container">
-
-                <div class="text-center" data-aos="fade-down" data-aos-delay="100">
-                    <h3>Want to learn more?</h3>
-                    <a class="cta-btn2" target="_blank" href="demo-request.php">Schedule for a demo today</a>
-                    <a class="cta-btn2" target="_blank" href="Kenlink A3 Bronchure.pdf" download=>Get Our Bronchure</a>
-                </div>
-
-            </div>
-        </section>
         <!-- ======= CTA Section ======= -->
         <section class="section cta-section">
             <div class="container">
@@ -241,7 +159,7 @@
     </main>
     <!-- End #main -->
 
-
+    <a href="verticals.php" class="btn btn-danger sticky-button" target="_blank">Solution Verticals</a>
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
@@ -308,7 +226,13 @@
                 <div class="copyright">
                     &copy; Copyright <strong><span>Kenlinks Solutions Ltd</span></strong>. All Rights Reserved
                 </div>
-                
+                <div class="credits">
+                    <!-- All the links in the footer should remain intact. -->
+                    <!-- You can delete the links only if you purchased the pro version. -->
+                    <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/ -->
+                    <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+                </div>
             </div>
             <div class="social-links text-center text-md-right pt-3 pt-md-0">
                 <a href="https://twitter.com/KenlinksOffice" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -331,8 +255,6 @@
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
     <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
     <script src="assets/vendor/php-email-form/validate.js"></script>
-    <script src="assets/vendor/typed/typed.min.js"></script>
-    <script src="assets/vendor/purecounter/purecounter.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
@@ -340,31 +262,3 @@
 </body>
 
 </html>
-
-<?php  
-// include_once "action.php";
-// include_once "action.php";
-// $db = new db();
-// //  $ip = $_SERVER['REMOTE_ADDR'];
-//  $db->web_hits($ip);
-
-//  echo $ip;
-// $sql = "UPDATE ken_web.visits SET hits = hits+1 WHERE id = 1";
-
-// $stmt = $db->conn->prepare($sql);
-
-// $stmt->execute();
-// include_once "config.php";
-// $db = new Database();
-
-// $sql = "UPDATE ken_web.counter SET hits = hits+1 WHERE id = 2";
-
-// $stmt = $db->conn->prepare($sql);
-
-// $stmt->execute();
-
-include_once "config.php";
-$db = new Database();
- $db->web_visits();
-
-?>
