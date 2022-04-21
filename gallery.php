@@ -64,22 +64,23 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="active" href="index.php">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About Us</a></li>
                     <li class="dropdown"><a href="#">Products & Services<i class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li class="dropdown"><a href="services.php"><span>Emergency Response</span> <i class="bi bi-chevron-right"></i></a>
-                                <ul>
+                            <li><a href="services.php"><span>Emergency Response</span></a>
+                                <!-- <ul>
                                     <li><a href="verticals.php">Solution Verticals</a></li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li><a href="#">Video Intelligence</a></li>
                         </ul>
                     </li>
-                    <!-- <li><a href="services.php">Demo Center</a></li> -->
-
+                    <!-- <li><a href="demo-center.php">Demo Center</a></li> -->
+                    <li><a href="verticals.php">Solution Verticals</a></li>
                     <li><a class="active" href="gallery.php">Gallery</a></li>
                     <li><a href="contact-us.php">Contact Us</a></li>
+
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
