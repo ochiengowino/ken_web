@@ -3,14 +3,14 @@
     <main id="main">
 
         <!-- ======= Breadcrumbs ======= -->
-        <section id="breadcrumbs" class="breadcrumbs"  style="background-image: url(assets\img\pattern1.png);">
+        <section id="breadcrumbs" class="breadcrumbs">
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Contact Us</h2>
+                    <h2>Coming Soon</h2>
                     <ol>
                         <li><a href="index.php">Home</a></li>
-                        <li>Contact Us</li>
+                        <li>Coming Soon</li>
                     </ol>
                 </div>
 
@@ -18,99 +18,15 @@
         </section>
         <!-- End Breadcrumbs -->
 
-        <!-- ======= Contact Section ======= -->
-        <!-- <div class="map-section">
-      <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+       
+<section class="cs-section">
+    <!-- <div class="container ">
+
     </div> -->
+</section>
+ 
 
-        <section id="contact" class="contact">
-            <div class="container">
 
-                <div class="row justify-content-center" data-aos="fade-up">
-
-                    <div class="col-lg-10">
-
-                        <div class="info-wrap">
-                            <div class="row">
-                                <div class="col-lg-4 info">
-                                    <i class="bi bi-geo-alt"></i>
-                                    <h4>Address:</h4>
-                                    <p>P.O Box 102576-00101,<br> NAIROBI, KENYA</p>
-                                </div>
-
-                                <div class="col-lg-4 info mt-4 mt-lg-0">
-                                    <i class="bi bi-envelope"></i>
-                                    <h4>Email:</h4>
-                                    <p>info@kenlinksolutions.com<br>solutions@kenlinksolutions.com</p>
-                                </div>
-
-                                <div class="col-lg-4 info mt-4 mt-lg-0">
-                                    <i class="bi bi-phone"></i>
-                                    <h4>Call:</h4>
-                                    <p>+254701922922</p>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="row mt-5 justify-content-center" data-aos="fade-up">
-                    <div class="col-lg-10">
-                        <form role="form" class="php-email-form" id="send-contact-form" autocomplete="on">
-
-                            <div class="row">
-                                <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                                </div>
-                                <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                                </div>
-                            </div>
-                            <div class="form-group mt-3">
-                                <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone No." required>
-                            </div>
-                            <div class="form-group mt-3">
-                                <textarea class="form-control" name="message" rows="5" id="message" placeholder="Comment or Message"></textarea>
-                            </div>
-                            <div class="my-3">
-                                <div class="loading">Sending...</div>
-                                <div class="error-message text-center">Please fill out all the fields</div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
-                            </div>
-                            <!-- <div class="text-center"><a type="submit" class="btn btn-danger" id="formSubmit" onClick="sendContact();">Send Message</a> -->
-                            <div class="form-group mt-3">
-                                <input type="submit" id="sendContactBtn" value="Send Message" class="btn btn-primary btn-lg btn-block myBtn">
-                            </div>
-                            </div>
-                        </form>
-                    </div>
-
-                </div>
-                <!-- href="javascript:void(0)" -->
-            </div>
-        </section>
-        <!-- End Contact Section -->
-
-        <!-- ======= CTA Section ======= -->
-        <!-- <section class="section cta-section">
-            <div class="container">
-                <div class="row align-items-center" data-aos="fade-out" data-aos-delay="100">
-                    <div class="col-md-6 me-auto text-center text-md-start mb-5 mb-md-0">
-                        <h2>Download Our App Now</h2>
-                        <img class="download-img" src="assets/img/footerlogo.webp" alt="">
-                    </div>
-                    <div class="col-md-5 text-center text-md-end">
-                        <p>
-                            <a href="https://apps.apple.com/cl/app/sayvu/id1081148815" class="btn btn-lg d-inline-flex align-items-center"><i class="bx bxl-apple bx-lg"></i><span>App store</span></a>
-                            <a href="https://play.google.com/store/apps/details?id=com.sayvu" class="btn btn-lg d-inline-flex align-items-center"><i class="bx bxl-play-store bx-lg"></i><span>Google play</span></a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-        <!-- End CTA Section -->
 
         <!-- ======= CTA Section ======= -->
         <section class="section cta-section">
@@ -134,6 +50,7 @@
             </div>
         </section>
         <!-- End CTA Section -->
+
     </main>
     <!-- End #main -->
 
@@ -217,7 +134,7 @@
                 <a href="https://www.facebook.com/KenlinksOfficial/" class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="https://www.instagram.com/kenlinks_solutions/" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-      <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
             </div>
         </div>
     </footer>
@@ -232,10 +149,8 @@
     <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
     <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-    <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
-    <script src="contact.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
 

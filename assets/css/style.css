@@ -3438,7 +3438,7 @@
         }
         
         .hero-section {
-            height: 750px;
+            height: 600px;
             width: 100%;
             min-width: 100%;
             position: relative;
@@ -3450,6 +3450,9 @@
         .hero-text {
             color: #ffffff;
             text-align: center;
+            font-weight: 700;
+            font-size: 44px;
+            background-color: #2746856e;
         }
         
         .hero-phone {
@@ -3488,7 +3491,57 @@
         @media only screen and (min-width: 301px) and (max-width: 480px) {
             /* // mobile styles go here */
             .hero-section {
-                height: 250px;
+                height: 150px;
+                width: 100%;
+                min-width: 100%;
+                position: relative;
+                background-size: cover;
+                background-position: 50% 50%;
+                background-image: url("../img/hero-img.jpg");
+            }
+            .hero-text {
+                color: #ffffff;
+                text-align: center;
+                font-size: 10px;
+            }
+            .hero-phone {
+                position: absolute;
+                height: 100px;
+                width: 50px;
+                bottom: 10px;
+                right: 5px;
+            }
+        }
+        
+        @media only screen and (min-width: 481px) and (max-width: 768px) {
+            /* //  iPads, tablets */
+            .hero-section {
+                height: 300px;
+                width: 100%;
+                min-width: 100%;
+                position: relative;
+                background-size: cover;
+                background-position: 50% 50%;
+                background-image: url("../img/hero-img.jpg");
+            }
+            .hero-text {
+                color: #ffffff;
+                text-align: center;
+                font-size: 17px;
+            }
+            .hero-phone {
+                position: absolute;
+                height: 150px;
+                width: 75px;
+                bottom: 10px;
+                right: 5px;
+            }
+        }
+        
+        @media only screen and (min-width: 769px) and (max-width: 1024px) {
+            /* Small screens, laptops */
+            .hero-section {
+                height: 400px;
                 width: 100%;
                 min-width: 100%;
                 position: relative;
@@ -3503,17 +3556,17 @@
             }
             .hero-phone {
                 position: absolute;
-                height: 100px;
-                width: 50px;
+                height: 230px;
+                width: 150px;
                 bottom: 10px;
                 right: 5px;
             }
         }
         
-        @media only screen and (min-width: 481px) and (max-width: 768px) {
-            /* //  iPads, tablets */
+        @media only screen and (min-width: 1025px) and (max-width: 1200px) {
+            /* // Desktops, large screens */
             .hero-section {
-                height: 500px;
+                height: 400px;
                 width: 100%;
                 min-width: 100%;
                 position: relative;
@@ -3528,15 +3581,15 @@
             }
             .hero-phone {
                 position: absolute;
-                height: 150px;
-                width: 75px;
+                height: 280px;
+                width: 150px;
                 bottom: 10px;
                 right: 5px;
             }
         }
         
-        @media only screen and (min-width: 769px) and (max-width: 1024px) {
-            /* Small screens, laptops */
+        @media only screen and (min-width: 1201px) {
+            /* // Extra large screens, TV */
             .hero-section {
                 height: 600px;
                 width: 100%;
@@ -3551,28 +3604,6 @@
                 text-align: center;
                 font-size: 30px;
             }
-            .hero-phone {
-                position: absolute;
-                height: 230px;
-                width: 150px;
-                bottom: 10px;
-                right: 5px;
-            }
-        }
-        
-        @media only screen and (min-width: 1025px) and (max-width: 1200px) {
-            /* // Desktops, large screens */
-            .hero-phone {
-                position: absolute;
-                height: 280px;
-                width: 150px;
-                bottom: 10px;
-                right: 5px;
-            }
-        }
-        
-        @media only screen and (min-width: 1201px) {
-            /* // Extra large screens, TV */
             .hero-phone {
                 position: absolute;
                 height: 300px;
@@ -3713,4 +3744,26 @@
         
         .cta3 .content .cta3-btn:hover {
             background: var(--color-primary);
+        }
+        
+        .cs-section {
+            background-image: url('../img/innovi2.png');
+            /* background-color: #59003d; */
+            height: 500px;
+            padding: 30%;
+            background-color: #0076b656;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            /* background: rgba(255, 255, 255, 0.436); */
+        }
+        
+        .back-overlay {
+            background: #4c4c5358;
+            overflow: hidden;
+            height: 100%;
+        }
+        
+        #afrimg {
+            height: 150px;
         }
