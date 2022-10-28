@@ -27,7 +27,7 @@
                     <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
                         <div class="content d-flex flex-column justify-content-center">
                             <h3 data-aos="fade-up">Who we are</h3>
-                            <p data-aos="fade-up">
+                            <p data-aos="fade-up" style="font-size: 18px;">
                                 Kenlinks Solutions Ltd is a majority Kenyan owned and registered company, PIN. P051-806-893B, set up to deal primarily in IT products that enhance personal safety and public well-being. 
                             </p>
                             <div class="row">
@@ -69,16 +69,16 @@
                                 <div class="col-lg-6">
                                     <img src="assets\img\CRAWN-Trust\CT1.png" class="img-fluid cc-img shadow p-3 mb-5 " alt="">
                                 </div>
-                                <div class="col-lg-6 pt-4 pt-lg-0 contentcc">
+                                <div class="col-lg-6 pt-4 pt-lg-0 contentcc" >
                                    
-                                    <p>
+                                    <p style="font-size: 18px;">
                                     Our model of business is to develop technology products and services, to operate international and local Agency and Distributorship services
                                      and to invest in mentor-ship and incubation projects run by youth.
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <!-- End testimonial item -->
+                        
 
                         <div class="swiper-slide">
                             <div class="row event-item">
@@ -87,13 +87,13 @@
                                 </div>
                                 <div class="col-lg-6 pt-4 pt-lg-0 contentcc">
                                    
-                                    <p>
+                                    <p  style="font-size: 18px;">
                                     Our aim is to bring out affordable mass-market niche technology products that have the greatest capacity to impact positively health and well-being.
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <!-- End testimonial item -->
+                    
 
                         <div class="swiper-slide">
                             <div class="row event-item">
@@ -102,7 +102,7 @@
                                 </div>
                                 <div class="col-lg-6 pt-4 pt-lg-0 contentcc">
                                     
-                                    <p>
+                                    <p  style="font-size: 18px;">
                                     Focusing on the interests of individuals will enable Kenlinks Solutions Ltd to always seek to be relevant and address pressing needs.
                                     </p>
                                 </div>
@@ -117,8 +117,67 @@
         </section>
         <!-- End Events Section -->
 
+
+        <section id="clients" class="">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2>Our Clients</h2>
+                    <!-- <p>Organize Your Events in our Restaurant</p> -->
+                </div>
+
+                <div class="events-slider swiper" data-aos="fade-up" data-aos-delay="300">
+                    <div class="swiper-wrapper clients">
+                        <div class="swiper-slide">
+                            <div class="row event-item">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <div class="client-logo">
+                                        <a href="https://www.kisumu.go.ke/project_category/health/"><img src="assets/img/clients/CGK_Website_Logo2.png" class="img-fluid" alt=""></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <div class="client-logo">
+                                        <a href="https://crawntrust.org/"><img src="assets/img/clients/CRAWN-TRUST-CLEAR-LOGO.png" class="img-fluid" alt=""></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="row event-item">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <div class="client-logo">
+                                        <a href="https://aphrc.org/"><img src="assets\img\clients\aphrc-logo.png" class="img-fluid" alt=""></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <div class="client-logo">
+                                        <a href="http://www.ocoambulance.co.ke/"><img src="assets\img\clients\ocoa-logo.png" class="img-fluid" alt=""></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="row event-item">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                    <div class="client-logo">
+                                        <a href="https://africities.org/"><img src="assets\img\clients/afri2.png" class="img-fluid" id="afrimg" alt=""></a>
+                                    </div>
+                                </div>
+                                <!-- <div class="col-lg-6 client-logo">
+                                    <img src="assets\img\clients/afri2.png" class="img-fluid cc-img shadow p-3 mb-5 " alt="">
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </section>
+
         <!-- ======= Our Clients Section ======= -->
-        <section id="clients" class="clients">
+        <!-- <section id="clients" class="clients">
             <div class="container">
 
                 <div class="section-title" data-aos="fade-up">
@@ -160,7 +219,7 @@
                 </div>
 
             </div>
-        </section>
+        </section> -->
         <!-- End Our Clients Section -->
         <!-- ======= CTA Section ======= -->
         <!-- <section class="section cta-section">

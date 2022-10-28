@@ -891,11 +891,11 @@
             height: 12px;
             background-color: #fff;
             opacity: 1;
-            border: 1px solid #f03c02;
+            border: 1px solid #027df0;
         }
         
         .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-            background-color: #f03c02;
+            background-color: #0206f0;
         }
         
         .portfolio-details .portfolio-info {
@@ -951,7 +951,7 @@
             border-right: 1px solid #e2dddb;
             border-bottom: 1px solid #e2dddb;
             overflow: hidden;
-            background: #fff;
+            background: rgba(255, 255, 255, 0);
             height: 200px;
         }
         
@@ -2951,7 +2951,7 @@
         
         .events::before {
             content: "";
-            background-color: #edf2f4;
+            background-color: #e9ecef;
             position: absolute;
             top: 0;
             right: 0;
@@ -3031,7 +3031,7 @@
         }
         
         .events .swiper-pagination .swiper-pagination-bullet-active {
-            background-color: #eb5746;
+            background-color: #0088ff;
         }
         
         .contentcc {
@@ -3767,3 +3767,6 @@
         #afrimg {
             height: 150px;
         }
+        /* #clients {
+            background: #033a71 !important;
+        } */
